@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Mahek Shaikh 👋
 
-<!--
-**mahekshaikh2476-star/mahekshaikh2476-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ENTC Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Learning Data Science & Machine Learning
+
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Power BI
+- Excel
+
+## Projects
+
+### Sales Data Cleaning & Reporting
+- Data Cleaning
+- EDA
+- Data Visualization
+- Power BI Dashboard
+
+### Sales Data Analysis
+- Python Analysis
+- Charts
+- Business Insights
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/mahek-shaikh002476
+
+Kaggle:
+www.kaggle.com/mahek2476
