@@ -74,7 +74,7 @@ www.linkedin.com/in/mahek-shaikh002476
 Kaggle:
 www.kaggle.com/mahek2476
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey in Data Analytics, Data Science, and Machine Learning.
+⭐ Thanks for visiting my profile! 
 
 
 
