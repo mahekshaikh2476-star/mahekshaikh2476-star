@@ -1,27 +1,9 @@
 # Hi, I'm Mahek Shaikh 👋
 
-🎯 Aspiring Data Analyst 
+Undergraduate ENTC Engineer
 📊 Passionate about transforming raw data into meaningful insights  
 📈 Building Data Analytics, Business Intelligence, and Machine Learning projects  
-🚀 Currently strengthening skills in Python, SQL, Power BI, Data Science, and Machine Learning
-
----
-
-## 👨‍💻 About Me
-
-- 📍 Based in India
-- 🎓 Learning Data Analytics and Data Science
-- 📊 Skilled in Data Cleaning, Analysis, Visualization, and Dashboard Development
-- 🔍 Interested in Business Intelligence, Predictive Analytics, and Machine Learning
-- 🌱 Currently learning:
-  - Statistics for Data Science
-  - Machine Learning Algorithms
-  - Feature Engineering
-  - Model Evaluation
-  - Deep Learning Fundamentals
-
----
-
+    
 ## 🛠️ Technical Skills
 
 ### Programming
@@ -41,11 +23,6 @@
 - Seaborn
 - Excel
 
-### Database
-- MySQL
-- SQL Queries
-- Data Modeling
-
 ### Machine Learning (Learning)
 - Scikit-Learn
 - Regression Models
@@ -60,7 +37,7 @@
 - Jupyter Notebook
 - Power BI Desktop
 
----
+
 
 ## 📂 Featured Projects
 
@@ -88,18 +65,6 @@
 - Customer segmentation analysis
 - Revenue trend analysis
 - Interactive dashboard creation
-
----
-
-
-
-## 📈 GitHub Goals
-
-- Build 15+ Data Analytics and scientist projects
-- Build 10+ Machine Learning Projects
-- Contribute to Open Source
-- Create End-to-End Data Science Projects
-- Develop Production-Ready Dashboards
 
 ## Connect With Me
 
