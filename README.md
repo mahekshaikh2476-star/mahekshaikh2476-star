@@ -30,41 +30,7 @@ Undergraduate ENTC Engineer
 - Model Evaluation
 - Feature Engineering
 
-### Tools
-- Git
-- GitHub
-- Google Colab
-- Jupyter Notebook
-- Power BI Desktop
 
-
-
-## 📂 Featured Projects
-
-### 📊 E-Commerce Sales Insights Dashboard
-- Built interactive Power BI dashboards
-- Analyzed sales trends and customer behavior
-- Created KPIs and business performance metrics
-
-### 📈 Sales Forecasting & Market Analysis
-- Forecasted future sales trends using Python
-- Conducted market performance analysis
-- Visualized predictions and insights
-
-### 📢 Marketing Campaign Performance Dashboard
-- Measured campaign effectiveness
-- Tracked ROI and conversion metrics
-- Built interactive Power BI reports
-
-### 📦 Business Analytics Dashboard
-- Data cleaning and transformation
-- KPI tracking and performance monitoring
-- Business intelligence reporting
-
-### 📉 Customer & Revenue Analysis
-- Customer segmentation analysis
-- Revenue trend analysis
-- Interactive dashboard creation
 
 ## Connect With Me
 
