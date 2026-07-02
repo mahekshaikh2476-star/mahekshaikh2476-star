@@ -21,7 +21,7 @@ Undergraduate ENTC Engineer
 - Power BI
 - Matplotlib
 - Seaborn
-- Excel
+  
 
 ### Machine Learning (Learning)
 - Scikit-Learn
